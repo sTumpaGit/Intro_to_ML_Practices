@@ -1,0 +1,11 @@
+A simple dataset for easy understanding 
+
+Let x and y be the independent variables and dependent variables respectively
+
+   x     y
+------------
+   1     1
+   2     3
+   4     3
+   3     2
+   5     5
