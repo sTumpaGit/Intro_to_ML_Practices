@@ -70,3 +70,57 @@ k = int(input("Enter the k value : "))
 nearest = []
 classification(sqrt_list,sports,nearest,k)
 
+
+
+'''
+--------------some outputs---------------
+
+== RESTART: C:\Users\TS\AppData\Local\Programs\Python\Python38\knn.py =
+Enter two data for age and gender for classification: 5 1
+Square roots using Euclidean Distance----
+26.981475126464083
+34.9857113690718
+11.0
+29.0
+49.98999899979995
+34.9857113690718
+15.0
+9.9498743710662
+50.0
+9.9498743710662
+Enter the k value : 3
+The new member loves Cricket
+>>> 
+== RESTART: C:\Users\TS\AppData\Local\Programs\Python\Python38\knn.py =
+Enter two data for age and gender for classification: 67 0
+Square roots using Euclidean Distance----
+35.0
+27.0
+50.99019513592785
+32.984845004941285
+12.0
+27.0
+46.98936049788292
+52.0
+11.958260743101398
+52.0
+Enter the k value : 5
+The new member loves Cricket
+>>> 
+== RESTART: C:\Users\TS\AppData\Local\Programs\Python\Python38\knn.py =
+Enter two data for age and gender for classification: 61 0
+Square roots using Euclidean Distance----
+29.0
+21.0
+44.98888751680797
+26.981475126464083
+6.0
+21.0
+40.98780306383839
+46.0
+5.916079783099616
+46.0
+Enter the k value : 2
+the new member loves Football
+>>> 
+'''
